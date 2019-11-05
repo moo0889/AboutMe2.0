@@ -1,0 +1,4 @@
+#Tue Nov 05 08:19:13 SGT 2019
+base.0=C\:\\Users\\taruc\\Desktop\\AboutMe2.0(Moo)\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
